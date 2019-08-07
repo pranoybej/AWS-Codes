@@ -6,3 +6,10 @@ resource "aws_vpc" "net-pblab-use2-vpc01" {
       name = "net-pblab-use2-vpc01"
   }
 }
+
+# Create the VPC Subnet 
+
+resource " " "name" {
+  
+}
+
